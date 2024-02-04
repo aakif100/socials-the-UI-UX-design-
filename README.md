@@ -16,4 +16,4 @@ To get started with Socials, follow these simple steps:
 
  Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/aakif100/socials.git
+   git clone https://github.com/aakif100/socials-the-UI-UX-design-.git
