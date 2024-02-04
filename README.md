@@ -27,3 +27,11 @@ Check out the [Figma design](https://www.figma.com/proto/918EJg8LohfsN9uuT2mN2t/
 ## Contributing
 
 Contributions are not accepted at the moment. Feel free to fork the repository and create your own version.
+
+## Acknowledgments
+
+- Inspired by the need for a simple and elegant social media experience.
+- Built with passion and creativity.
+
+Feel free to explore, modify, and share Socials. Happy coding!
+
