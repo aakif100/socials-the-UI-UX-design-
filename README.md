@@ -8,3 +8,12 @@ Welcome to Socials, where connections thrive and moments unfold. This is a minim
 - **Explore:** Scroll through a visually appealing feed of pictures posted by others.
 - **Engage:** Express yourself with likes, comments, and the option to send direct messages.
 - **Sleek Design:** A clean and modern UI for a delightful user experience.
+
+
+## Getting Started
+
+To get started with Socials, follow these simple steps:
+
+ Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/aakif100/socials.git
