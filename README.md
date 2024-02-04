@@ -5,7 +5,7 @@ Welcome to Socials, where connections thrive and moments unfold. This is a minim
 
 ## Figma Design
 
-Check out the [Figma design](https://www.figma.com/proto/918EJg8LohfsN9uuT2mN2t/Untitled?page-id=0%3A1&type=design&node-id=2-2&viewport=499%2C726%2C1.08&t=TD2aNiJZcBUevPWb-1&scaling=scale-down&mode=design) for an in-depth view of the app.
+Check out the [Figma design](https://www.figma.com/proto/918EJg8LohfsN9uuT2mN2t/Untitled?page-id=0%3A1&type=design&node-id=2-2&viewport=499%2C726%2C1.08&t=TD2aNiJZcBUevPWb-1&scaling=scale-down&mode=design) 
 
 ## Features
 
