@@ -10,7 +10,6 @@ Check out the [Figma design](https://www.figma.com/proto/918EJg8LohfsN9uuT2mN2t/
 ## Features
 
 - **Explore:** Scroll through a visually appealing feed of pictures posted by others.
-- **Engage:** Express yourself with likes, comments, and the option to send direct messages.
 - **Sleek Design:** A clean and modern UI for a delightful user experience.
 
 
