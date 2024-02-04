@@ -1,0 +1,621 @@
+##please note that this code is ai converted from figma design to html css..thr output wont be exactly the same....
+----------------------------------HTML------------------------
+<div>
+  <link href="./i-phone1415-pro1.css" rel="stylesheet" />
+  <div class="i-phone1415-pro1-container">
+    <div class="i-phone1415-pro1-i-phone1415-pro1">
+      <div class="i-phone1415-pro1-frame1">
+        <img
+          src="/rectangle128-ziel-300h.png"
+          alt="Rectangle128"
+          class="i-phone1415-pro1-rectangle1"
+        />
+        <span class="i-phone1415-pro1-text"><span>@AAK.XIF</span></span>
+        <span class="i-phone1415-pro1-text02">
+          <span>
+            lorem ipsum sama bdama laorf rituf rjinir fjrljf vin pa colege
+          </span>
+        </span>
+        <span class="i-phone1415-pro1-text04">
+          <span>
+            lorem ipsum sama bdama laorf rituf rjinir fjrljf vin pa colege
+          </span>
+        </span>
+        <span class="i-phone1415-pro1-text06">
+          <span>
+            lorem ipsum sama bdama laorf rituf rjinir fjrljf vin pa colege
+          </span>
+        </span>
+        <img
+          src="/rectangle4616-395c-200w.png"
+          alt="Rectangle4616"
+          class="i-phone1415-pro1-rectangle4"
+        />
+        <img
+          src="/rectangle6794-pysv-200h.png"
+          alt="Rectangle6794"
+          class="i-phone1415-pro1-rectangle6"
+        />
+        <img
+          src="/rectangle5617-wu6m-200h.png"
+          alt="Rectangle5617"
+          class="i-phone1415-pro1-rectangle5"
+        />
+      </div>
+      <div class="i-phone1415-pro1-frame3">
+        <img
+          src="/rectangle1656-38i9-300h.png"
+          alt="Rectangle1656"
+          class="i-phone1415-pro1-rectangle11"
+        />
+        <span class="i-phone1415-pro1-text08"><span>@AAK.XIF</span></span>
+        <img
+          src="/rectangle3660-4ujx-200h.png"
+          alt="Rectangle3660"
+          class="i-phone1415-pro1-rectangle3"
+        />
+        <img
+          src="/rectangle4661-w97-200h.png"
+          alt="Rectangle4661"
+          class="i-phone1415-pro1-rectangle41"
+        />
+        <img
+          src="/rectangle5662-bsld-200h.png"
+          alt="Rectangle5662"
+          class="i-phone1415-pro1-rectangle51"
+        />
+        <span class="i-phone1415-pro1-text10">
+          <span>
+            lorem ipsum sama bdama laorf rituf rjinir fjrljf vin pa colege
+          </span>
+        </span>
+      </div>
+      <div class="i-phone1415-pro1-frame4">
+        <img
+          src="/rectangle1664-d2fd-300h.png"
+          alt="Rectangle1664"
+          class="i-phone1415-pro1-rectangle12"
+        />
+        <span class="i-phone1415-pro1-text12"><span>@AAK.XIF</span></span>
+        <img
+          src="/rectangle3668-4j2e-200h.png"
+          alt="Rectangle3668"
+          class="i-phone1415-pro1-rectangle31"
+        />
+        <img
+          src="/rectangle4669-daii-200h.png"
+          alt="Rectangle4669"
+          class="i-phone1415-pro1-rectangle42"
+        />
+        <img
+          src="/rectangle5670-74wd.svg"
+          alt="Rectangle5670"
+          class="i-phone1415-pro1-rectangle52"
+        />
+        <span class="i-phone1415-pro1-text14">
+          <span>
+            lorem ipsum sama bdama laorf rituf rjinir fjrljf vin pa colege
+          </span>
+        </span>
+      </div>
+      <div class="i-phone1415-pro1-frame5">
+        <img
+          src="/rectangle1672-tr7d-300h.png"
+          alt="Rectangle1672"
+          class="i-phone1415-pro1-rectangle13"
+        />
+        <span class="i-phone1415-pro1-text16"><span>@AMANAMAN</span></span>
+        <img
+          src="/rectangle3676-pji2f-200h.png"
+          alt="Rectangle3676"
+          class="i-phone1415-pro1-rectangle32"
+        />
+        <img
+          src="/rectangle4677-h2nf-200h.png"
+          alt="Rectangle4677"
+          class="i-phone1415-pro1-rectangle43"
+        />
+        <img
+          src="/rectangle5678-i2-200h.png"
+          alt="Rectangle5678"
+          class="i-phone1415-pro1-rectangle53"
+        />
+        <span class="i-phone1415-pro1-text18">
+          <span>
+            lorem ipsum sama bdama laorf rituf rjinir fjrljf vin pa colege
+          </span>
+        </span>
+      </div>
+      <span class="i-phone1415-pro1-text20"><span>SOCIALS</span></span>
+      <div class="i-phone1415-pro1-frame9">
+        <img
+          src="/rectangle6680-umg-200h.png"
+          alt="Rectangle6680"
+          class="i-phone1415-pro1-rectangle61"
+        />
+      </div>
+      <div class="i-phone1415-pro1-frame8">
+        <img
+          src="/rectangle8691-bsji-200h.png"
+          alt="Rectangle8691"
+          class="i-phone1415-pro1-rectangle8"
+        />
+        <img
+          src="/rectangle9692-n4hs-200h.png"
+          alt="Rectangle9692"
+          class="i-phone1415-pro1-rectangle9"
+        />
+        <img
+          src="/rectangle10693-1b1-200h.png"
+          alt="Rectangle10693"
+          class="i-phone1415-pro1-rectangle10"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+ ---------------------------------------------------------------------- CSS--------------------------------------------------------------------------------
+
+
+
+
+
+  .i-phone1415-pro1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.i-phone1415-pro1-i-phone1415-pro1 {
+  width: 100%;
+  height: 1426px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(NaNdeg, rgba(207, 47, 143, 1) 0%, rgba(199, 5, 121, 1) 13%, rgba(42, 39, 39, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.i-phone1415-pro1-frame1 {
+  top: 117px;
+  left: 27px;
+  width: 337px;
+  height: 275.9999694824219px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.i-phone1415-pro1-rectangle1 {
+  top: 26.999996185302734px;
+  left: 60.999969482421875px;
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.i-phone1415-pro1-text {
+  top: 7.999999046325684px;
+  left: 142.99998474121094px;
+  color: rgba(155, 144, 144, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-text02 {
+  top: 254.9371795654297px;
+  left: 17.999998092651367px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-text04 {
+  top: 254.9371795654297px;
+  left: 17.999998092651367px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-text06 {
+  top: 254.9371795654297px;
+  left: 17.999998092651367px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-rectangle4 {
+  top: 121.99998474121094px;
+  left: 295.9999694824219px;
+  width: 30px;
+  height: 33px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle6 {
+  top: 82.99999237060547px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle5 {
+  top: 172.99998474121094px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-frame3 {
+  top: 1058px;
+  left: 27px;
+  width: 337px;
+  height: 275.9999694824219px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.i-phone1415-pro1-rectangle11 {
+  top: 26.999996185302734px;
+  left: 60.999969482421875px;
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.i-phone1415-pro1-text08 {
+  top: 7.999999046325684px;
+  left: 142.99998474121094px;
+  color: rgba(155, 144, 144, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-rectangle3 {
+  top: 82.99999237060547px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle41 {
+  top: 127.99998474121094px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle51 {
+  top: 172.99998474121094px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-text10 {
+  top: 252.9371795654297px;
+  left: 16.999998092651367px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-frame4 {
+  top: 727px;
+  left: 27px;
+  width: 337px;
+  height: 275.9999694824219px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.i-phone1415-pro1-rectangle12 {
+  top: 26.999996185302734px;
+  left: 60.999969482421875px;
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.i-phone1415-pro1-text12 {
+  top: 7.999999046325684px;
+  left: 142.99998474121094px;
+  color: rgba(155, 144, 144, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-rectangle31 {
+  top: 82.99999237060547px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle42 {
+  top: 127.99998474121094px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle52 {
+  top: 172.99998474121094px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.35;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.i-phone1415-pro1-text14 {
+  top: 255.93716430664062px;
+  left: 15.999998092651367px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-frame5 {
+  top: 422px;
+  left: 27px;
+  width: 337px;
+  height: 275.9999694824219px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.i-phone1415-pro1-rectangle13 {
+  top: 26.999996185302734px;
+  left: 60.999969482421875px;
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  border-color: rgba(255, 246, 251, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.i-phone1415-pro1-text16 {
+  top: 7.999999046325684px;
+  left: 126.99998474121094px;
+  color: rgba(155, 144, 144, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-rectangle32 {
+  top: 82.99999237060547px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle43 {
+  top: 127.99998474121094px;
+  left: 298.9999694824219px;
+  width: 23px;
+  height: 20px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-rectangle53 {
+  top: 169.99998474121094px;
+  left: 298.9999694824219px;
+  width: 26px;
+  height: 23px;
+  opacity: 0.30;
+  position: absolute;
+  border-radius: 7px;
+}
+.i-phone1415-pro1-text18 {
+  top: 252.9371795654297px;
+  left: 19.999998092651367px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-text20 {
+  top: 76px;
+  left: 135px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.17;
+  position: absolute;
+  font-size: 30px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone1415-pro1-frame9 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 77px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(45, 12, 23, 1);
+}
+.i-phone1415-pro1-rectangle61 {
+  top: 24px;
+  left: 332px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 22px;
+}
+.i-phone1415-pro1-frame8 {
+  gap: 88px;
+  top: 1350px;
+  left: -8px;
+  width: 401px;
+  height: 76px;
+  display: flex;
+  padding: 18px 48px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-color: rgba(45, 12, 23, 1);
+}
+.i-phone1415-pro1-rectangle8 {
+  width: 44px;
+  height: 40px;
+  border-radius: 95px;
+}
+.i-phone1415-pro1-rectangle9 {
+  width: 43px;
+  height: 40px;
+  border-radius: 95px;
+}
+.i-phone1415-pro1-rectangle10 {
+  width: 43px;
+  height: 40px;
+  border-radius: 95px;
+}
+
+
+
+  
