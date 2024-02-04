@@ -3,6 +3,10 @@
 
 Welcome to Socials, where connections thrive and moments unfold. This is a minimalistic social media app designed to streamline your online experience. Dive into a world of seamless interactions with an intuitive and user-friendly interface.
 
+## Figma Design
+
+Check out the [Figma design](https://www.figma.com/proto/918EJg8LohfsN9uuT2mN2t/Untitled?page-id=0%3A1&type=design&node-id=2-2&viewport=499%2C726%2C1.08&t=TD2aNiJZcBUevPWb-1&scaling=scale-down&mode=design) for an in-depth view of the app.
+
 ## Features
 
 - **Explore:** Scroll through a visually appealing feed of pictures posted by others.
